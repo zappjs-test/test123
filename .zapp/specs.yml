@@ -2,8 +2,12 @@ app:
   title: Test 123
   name: test-123
   description: test
+dependencies:
+  react: latest
 components:
   header:
     name: Header
-dependencies:
-  react: latest
+    props:
+      title:
+        default: ''''''
+        type: string
