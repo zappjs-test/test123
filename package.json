@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "react": "latest",
+    "react-redux": "^5.0.5",
+    "react-router": "^3.0.2",
+    "react-router-redux": "^4.0.8",
+    "redux": "^3.7.1",
+    "redux-thunk": "^2.2.0"
+  },
+  "description": "test",
+  "name": "test-123"
+}

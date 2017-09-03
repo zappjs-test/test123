@@ -1,0 +1,9 @@
+app:
+  title: Test 123
+  name: test-123
+  description: test
+components:
+  header:
+    name: Header
+dependencies:
+  react: latest
